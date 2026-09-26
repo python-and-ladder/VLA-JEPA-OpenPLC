@@ -219,3 +219,6 @@ __marimo__/
 .venv/
 __pycache__/
 *.pyc
+
+# AI Code Assistant
+graphify-out
